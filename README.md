@@ -33,10 +33,4 @@ Many candidates lack access to realistic interview practice. This project provid
 1. Clone the repository  
 2. Install dependencies:
    ```bash
-   npm install
-
-```bash
-pnpm install
-pnpm db:migrate # Setup database or apply latest database changes
-pnpm dev
-```
+   pnpm install
